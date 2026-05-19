@@ -1,0 +1,21 @@
+{
+  "appId": "com.investian.app",
+  "appName": "investian",
+  "webDir": "www",
+  "server": {
+    "url": "https://investian.infy.uk/login",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2500,
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffff",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}
